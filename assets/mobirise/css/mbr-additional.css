@@ -1113,7 +1113,7 @@ section.lazy-placeholder:after {
 .cid-s7421c4PAz {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/background4.jpg");
+  background-image: url("../../../assets/images/webbck-org-2000x1600.png");
 }
 .cid-s7424cbuFK {
   padding-top: 60px;
@@ -1122,6 +1122,7 @@ section.lazy-placeholder:after {
 }
 .cid-s7424cbuFK .mbr-section-text {
   color: #232323;
+  text-align: left;
 }
 .cid-s7424cbuFK .mbr-section-subtitle {
   color: #7c49af;
@@ -1318,6 +1319,7 @@ section.lazy-placeholder:after {
 }
 .cid-s74luWdQ4h .mbr-content-text {
   color: #767676;
+  text-align: left;
 }
 .cid-s74luWdQ4h .panel-item {
   background: #ffffff;
@@ -1334,6 +1336,38 @@ section.lazy-placeholder:after {
 }
 .cid-s74luWdQ4h H3 {
   color: #7c49af;
+}
+.cid-s7mZ9i5UAb {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background: linear-gradient(45deg, #7916dc, #cc2952);
+}
+.cid-s7mZ9i5UAb .btn {
+  margin: 0 0 .5rem 0;
+}
+.cid-s7mZ9i5UAb H2 {
+  text-align: center;
+}
+.cid-s7n5qp8z51 {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #efefef;
+}
+.cid-s7n5qp8z51 .title {
+  margin-bottom: 2rem;
+}
+.cid-s7n5qp8z51 .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-s7n5qp8z51 a:not([href]):not([tabindex]) {
+  color: #fff;
+  border-radius: 3px;
+}
+.cid-s7n5qp8z51 a.btn-white:not([href]):not([tabindex]) {
+  color: #333;
+}
+.cid-s7n5qp8z51 textarea.form-control {
+  min-height: 188px;
 }
 .cid-s74qCmEsZ1 {
   padding-top: 30px;
