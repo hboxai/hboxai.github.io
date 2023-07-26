@@ -361,7 +361,12 @@ Mobile <b>Privacy Policy</b> (or as otherwise agreed upon between you and HBox i
     and you agree that such notices shall constitute notice to you whether or not you
     actually access the notice
 </p>
-
-
+<script>
+window.onscroll = function(ev) {
+    if ((window.innerHeight + window.scrollY) >= document.body.offsetHeight) {
+    window.FLUTTER_CHANNEL.postMessage('scroll_end');
+    }
+};
+</script>
 </body>
 </html>
